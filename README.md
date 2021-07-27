@@ -5,7 +5,4 @@ Marketplace Reference: Shopee
 
 
 Created by:
-Karma Kunga		/ ITB 2020
-Bryan Amirul Husna 	/ ITB 2020
-Shadiq Harwiz		/ ITB 2020
-Gede Sumerta Yoga	/ ITB 2020
+Karma Kunga, Bryan Amirul Husna, Shadiq Harwiz, and Gede Sumerta Yoga
